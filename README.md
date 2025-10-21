@@ -74,6 +74,5 @@ Based on the analysis, we recommend the following actions:
   
 # REFERENCES
 
-- Glassdoor-like job postings (2024).
-- Data science job listings dataset.
+- Glassdoor-like job postings (2024). Data science job listings dataset.
   
